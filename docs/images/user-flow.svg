@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 380" width="1240" height="380" role="img" aria-labelledby="ufTitle ufDesc">
+  <title id="ufTitle">天机智能体用户使用流程</title>
+  <desc id="ufDesc">五步操作流程：注册账号、配置连接器、在对话里 @ 连接器提问、看助手取数分析、一键生成报告；后三步可换个问题反复进行。</desc>
+
+  <defs>
+    <linearGradient id="ufGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="55%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1240" height="380" rx="20" fill="#FFFFFF"/>
+
+  <g font-family="PingFang SC, Microsoft YaHei, Hiragino Sans GB, Source Han Sans SC, Noto Sans CJK SC, sans-serif">
+
+    <text x="620" y="52" text-anchor="middle" font-size="26" font-weight="700" fill="#0F172A">用户使用流程</text>
+    <text x="620" y="80" text-anchor="middle" font-size="14" fill="#64748B">从注册到出报告，你只需要做这五步</text>
+
+    <!-- ========== 第 1 步：注册账号 ========== -->
+    <rect x="40" y="108" width="200" height="204" rx="16" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.5"/>
+    <circle cx="140" cy="146" r="20" fill="url(#ufGrad)"/>
+    <text x="140" y="153" text-anchor="middle" font-size="18" font-weight="700" fill="#FFFFFF">1</text>
+    <g stroke="url(#ufGrad)" stroke-width="3.5" fill="none" stroke-linecap="round">
+      <circle cx="140" cy="191" r="7"/>
+      <path d="M126 214 c0 -10 6 -16 14 -16 s14 6 14 16"/>
+    </g>
+    <text x="140" y="248" text-anchor="middle" font-size="17" font-weight="700" fill="#0F172A">注册账号</text>
+    <text x="140" y="274" text-anchor="middle" font-size="12.5" fill="#64748B">填用户名和密码</text>
+    <text x="140" y="294" text-anchor="middle" font-size="12.5" fill="#64748B">注册即赠 100 积分</text>
+
+    <path d="M248 210 L264 210" stroke="#CBD5E1" stroke-width="3" stroke-linecap="round"/>
+    <polygon points="264,204 272,210 264,216" fill="#94A3B8"/>
+
+    <!-- ========== 第 2 步：配置连接器 ========== -->
+    <rect x="280" y="108" width="200" height="204" rx="16" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.5"/>
+    <circle cx="380" cy="146" r="20" fill="url(#ufGrad)"/>
+    <text x="380" y="153" text-anchor="middle" font-size="18" font-weight="700" fill="#FFFFFF">2</text>
+    <g stroke="url(#ufGrad)" stroke-width="3.5" fill="none" stroke-linecap="round">
+      <circle cx="370" cy="188" r="8"/>
+      <path d="M376 194 L392 212"/>
+      <path d="M381 203 L387 197"/>
+      <path d="M386 209 L392 203"/>
+    </g>
+    <text x="380" y="248" text-anchor="middle" font-size="17" font-weight="700" fill="#0F172A">配置连接器</text>
+    <text x="380" y="274" text-anchor="middle" font-size="12.5" fill="#64748B">把已有平台的密钥填进来</text>
+    <text x="380" y="294" text-anchor="middle" font-size="12.5" fill="#64748B">一个平台配一次，长期有效</text>
+
+    <path d="M488 210 L504 210" stroke="#CBD5E1" stroke-width="3" stroke-linecap="round"/>
+    <polygon points="504,204 512,210 504,216" fill="#94A3B8"/>
+
+    <!-- ========== 第 3 步：@ 连接器提问 ========== -->
+    <rect x="520" y="108" width="200" height="204" rx="16" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.5"/>
+    <circle cx="620" cy="146" r="20" fill="url(#ufGrad)"/>
+    <text x="620" y="153" text-anchor="middle" font-size="18" font-weight="700" fill="#FFFFFF">3</text>
+    <g stroke="url(#ufGrad)" stroke-width="3.5" fill="none" stroke-linejoin="round">
+      <rect x="600" y="180" width="40" height="26" rx="8"/>
+      <path d="M610 206 L610 216 L620 206"/>
+    </g>
+    <text x="620" y="199" text-anchor="middle" font-size="15" font-weight="700" fill="#3B82F6">@</text>
+    <text x="620" y="248" text-anchor="middle" font-size="17" font-weight="700" fill="#0F172A">@ 连接器提问</text>
+    <text x="620" y="274" text-anchor="middle" font-size="12.5" fill="#64748B">在输入框里 @ 选中数据源</text>
+    <text x="620" y="294" text-anchor="middle" font-size="12.5" fill="#64748B">用大白话说清要查什么</text>
+
+    <path d="M728 210 L744 210" stroke="#CBD5E1" stroke-width="3" stroke-linecap="round"/>
+    <polygon points="744,204 752,210 744,216" fill="#94A3B8"/>
+
+    <!-- ========== 第 4 步：助手取数分析 ========== -->
+    <rect x="760" y="108" width="200" height="204" rx="16" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.5"/>
+    <circle cx="860" cy="146" r="20" fill="url(#ufGrad)"/>
+    <text x="860" y="153" text-anchor="middle" font-size="18" font-weight="700" fill="#FFFFFF">4</text>
+    <g fill="url(#ufGrad)">
+      <rect x="842" y="204" width="8" height="10" rx="2"/>
+      <rect x="856" y="196" width="8" height="18" rx="2"/>
+      <rect x="870" y="188" width="8" height="26" rx="2"/>
+    </g>
+    <path d="M878 179 L880 184 L885 186 L880 188 L878 193 L876 188 L871 186 L876 184 Z" fill="#F59E0B"/>
+    <text x="860" y="248" text-anchor="middle" font-size="17" font-weight="700" fill="#0F172A">看它取数分析</text>
+    <text x="860" y="274" text-anchor="middle" font-size="12.5" fill="#64748B">助手自己判断调什么数据</text>
+    <text x="860" y="294" text-anchor="middle" font-size="12.5" fill="#64748B">取数过程可展开核对</text>
+
+    <path d="M968 210 L984 210" stroke="#CBD5E1" stroke-width="3" stroke-linecap="round"/>
+    <polygon points="984,204 992,210 984,216" fill="#94A3B8"/>
+
+    <!-- ========== 第 5 步：一键生成报告 ========== -->
+    <rect x="1000" y="108" width="200" height="204" rx="16" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.5"/>
+    <circle cx="1100" cy="146" r="20" fill="url(#ufGrad)"/>
+    <text x="1100" y="153" text-anchor="middle" font-size="18" font-weight="700" fill="#FFFFFF">5</text>
+    <rect x="1086" y="180" width="28" height="36" rx="4" fill="none" stroke="url(#ufGrad)" stroke-width="3.5"/>
+    <g stroke="#94A3B8" stroke-width="2.4" stroke-linecap="round">
+      <path d="M1093 191 L1107 191"/>
+      <path d="M1093 198 L1107 198"/>
+      <path d="M1093 205 L1102 205"/>
+    </g>
+    <path d="M1116 174 L1118 179 L1123 181 L1118 183 L1116 188 L1114 183 L1109 181 L1114 179 Z" fill="#F59E0B"/>
+    <text x="1100" y="248" text-anchor="middle" font-size="17" font-weight="700" fill="#0F172A">一键生成报告</text>
+    <text x="1100" y="274" text-anchor="middle" font-size="12.5" fill="#64748B">点「生成报告分析」按钮</text>
+    <text x="1100" y="294" text-anchor="middle" font-size="12.5" fill="#64748B">可下载，也可分享链接</text>
+
+    <!-- ========== 回到第 3 步的循环 ========== -->
+    <path d="M1100 318 C1100 348 1080 352 1050 352 L670 352 C640 352 620 348 620 322"
+          fill="none" stroke="#FCD34D" stroke-width="2.5" stroke-dasharray="7 6" stroke-linecap="round"/>
+    <polygon points="613,330 620,318 627,330" fill="#F59E0B"/>
+    <rect x="742" y="341" width="236" height="22" fill="#FFFFFF"/>
+    <text x="860" y="357" text-anchor="middle" font-size="12.5" fill="#B45309">换个问题，重复第 3–5 步</text>
+
+  </g>
+</svg>

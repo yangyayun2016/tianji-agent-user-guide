@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/logo.svg" alt="天机智能体" width="112" height="112">
+  <img src="docs/public/images/logo.png" alt="天机智能体" width="112" height="112">
 </p>
 
 <h1 align="center">天机智能体 · 使用指南</h1>

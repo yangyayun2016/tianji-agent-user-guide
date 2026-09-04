@@ -43,7 +43,12 @@ prompts/    需求流水，按时间顺序保存用户原始提示词，仅作�
 | 功能 | `chat.md`、`skills.md`、`connectors.md`、`knowledge-base.md`、`database.md`、`reports-and-schedule.md`、`feishu.md`、`credits.md` | 一个功能模块一页 |
 | 兜底 | `admin.md`（仅站点管理员）、`faq.md`（横向汇总各模块高频问题） |
 
-图片素材统一放 `docs/images/`，文件名用小写短横线，语义化命名（如 `chat-tool-card.png`）。
+图片素材分两处存放，各自只有一个家：
+
+- `docs/images/` —— **文档正文里引用的图**（截图、流程图）。在 md 里用相对路径引用（`./images/xxx.svg`），这样在站点和 GitHub 上都能正常显示。
+- `docs/public/images/` —— **站点全局素材**（logo、favicon）。在站点配置和首页 hero 里用绝对路径引用（`/images/logo.svg`），构建时会自动补上 base 前缀。
+
+文件名用小写短横线，语义化命名（如 `chat-tool-card.png`）。
 
 ## 写作规范
 
